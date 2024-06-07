@@ -47,5 +47,5 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-GV&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent)](https://github.com/Andrea-GV/github-readme-stats)
-[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrea-GV)](https://github.com/Andrea-GV/github-readme-stats&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrea-GV&layout=donut&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent)](https://github.com/Andrea-GV)
+[![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrea-GV&theme=transparent)](https://github.com/Andrea-GV)
