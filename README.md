@@ -10,7 +10,7 @@
   <ul>
     <li> 🍫 I've been running my own artisanal chocolate business from 2016 to August 2023 </li>
     <li> 🥇 Meanwhile, I won some chocolate competitions </li>
-    <li> 📝 Recently, I've successfully completed a <b> Bootcamp of Full Stack Developement </b> </li>
+    <li> 📝 Recently, I've successfully completed a <b> Full Stack Developement Bootcamp </b> </li>
     <li> 🔭 I’m currently looking for a new opportunity on IT </li>
     <li> 🌱 I’m also currently learning <i> AWS </i> and <i> Elements of AI </i> </li>
     <li> 📝 You can find my <a href="https://drive.google.com/file/d/1Bg_iOicEe2tGq1NxXChHf86oAkXH3kSr/view" alt="Resume"> Resume </a> </li>
