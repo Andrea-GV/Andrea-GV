@@ -12,9 +12,9 @@
     <li> 🥇 Meanwhile, I won some international chocolate competitions </li>
     <li> 📝 Recently, I've successfully completed a <b> Full Stack Developement Bootcamp </b> </li>
     <li> 🔭 I’m currently looking for a new opportunity on IT </li>
-    <li> 🌱 I’m also currently learning <i> AWS </i> and <i> Elements of AI </i> </li>
+    <li> 🌱 I’m also currently learning <i> AWS Certified Developer Associate </i> and <i> Elements of AI </i> </li>
     <li> 📝 You can find my <a href="https://drive.google.com/file/d/13DbwGqERIO3Sjv6mC0CYEoDdf2i3RqBm/view?usp=drive_link" alt="Resume"> Resume </a> </li>
-    <li> 📫 Let's get in touch <a target="_blank" href="https://www.linkedin.com/in/andrea-garcia-valverde/" rel="follow"><img     src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="width: 10%;"></a> 
+    <li> 📫 Let's get in touch <a target="_blank" href="https://www.linkedin.com/in/andrea-garcia-valverde/" rel="follow"><img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="width: 10%;"></a> 
       <a target="_blank" href="https://github.com/Andrea-GV" rel="follow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a></li>
     <li> 💬 Ask me about <i> Leonardo Da Vinci </i>, I'm a totally freak about him! </li>
     <li> 🎨 Besides of coding, I really love painting with watercolours, charcoal or guache </li>
