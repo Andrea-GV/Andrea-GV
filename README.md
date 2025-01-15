@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi there! 👋 I'm Andrea </h1>
-  <h3> I'm a renewed chocolate master and becoming a Junior Full Stack Developer 💻 </h3>
+  <h3> I'm a renewed chocolate master and becoming a Full Stack Developer 💻 </h3>
   <h5> Although I find myself more confortable on Frontend 👌</h5>
 </div>
 <img src="https://github.com/Andrea-GV/Andrea-GV/blob/main/Banner%20Andreav5.jpg" style="max-width: 100%">
@@ -12,7 +12,7 @@
     <li> 🥇 Meanwhile, I won some international chocolate competitions </li>
     <li> 📝 Recently, I've successfully completed a <b> Full Stack Developement Bootcamp </b> </li>
     <li> 🔭 I’m currently looking for a new opportunity on IT </li>
-    <li> 🌱 I’m also currently learning <i> AWS Certified Developer Associate </i> and <i> Elements of AI </i> </li>
+    <li> 🌱 I've also finished my training about <i> Liferay DXP 7.4 </i> </li>
     <li> 📝 You can find my <a href="https://drive.google.com/file/d/13DbwGqERIO3Sjv6mC0CYEoDdf2i3RqBm/view?usp=drive_link" alt="Resume"> Resume </a> </li>
     <li> 📫 Let's get in touch <a target="_blank" href="https://www.linkedin.com/in/andrea-garcia-valverde/" rel="follow"><img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="width: 10%;"></a> 
       <a target="_blank" href="https://github.com/Andrea-GV" rel="follow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a></li>
