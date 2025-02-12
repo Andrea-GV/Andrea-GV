@@ -3,7 +3,7 @@
   <h3> I'm a renewed chocolate master and becoming a Full Stack Developer 💻 </h3>
   <h5> Although I find myself more confortable on Frontend 👌</h5>
 </div>
-<img src="https://github.com/Andrea-GV/Andrea-GV/blob/main/Banner%20Andreav5.jpg" style="max-width: 100%">
+<img src="https://github.com/Andrea-GV/Andrea-GV/blob/main/Banner%20LinkedIn%20Frontendv2.jpg" style="max-width: 100%">
 
 <div >
   <h2 align="center">✨ Quick facts about me✨</h2>
