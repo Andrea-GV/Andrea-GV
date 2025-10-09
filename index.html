@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lista de tareas (Lit)</title>
+    <style>
+      /* Estilos globales mínimos para maquetación */
+      :root {
+        color-scheme: light dark;
+        --max-width: 720px;
+      }
+      body {
+        margin: 0;
+        font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+        line-height: 1.4;
+        display: grid;
+        place-content: start center;
+        min-height: 100dvh;
+        padding: 2rem 1rem;
+      }
+      #app {
+        width: 100%;
+        max-width: var(--max-width);
+      }
+      header {
+        margin-bottom: 1rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <header>
+        <h1>Lista de tareas</h1>
+        <p>Base de la app usando Lit desde CDN.</p>
+      </header>
+    </div>
+
+    <script type="module">
+      // Cargamos Lit desde un CDN ESM
+      import { html, render } from 'https://cdn.jsdelivr.net/npm/lit@3/+esm';
+
+      // Paso 1: estructura base. Más adelante montaremos <todo-list> aquí.
+      const appRoot = document.getElementById('app');
+      render(html`<p>Preparado para montar los componentes.</p>`, appRoot);
+    </script>
+  </body>
+</html>
