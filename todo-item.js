@@ -20,6 +20,24 @@ export class TodoItem extends LitElement {
       border-radius: 8px;
       border: 1px solid color-mix(in oklab, CanvasText 15%, transparent);
       background: color-mix(in oklab, Canvas 92%, transparent);
+      transition:
+        background-color 0.2s ease,
+        border-color 0.2s ease,
+        box-shadow 0.2s ease,
+        opacity 0.2s ease,
+        color 0.2s ease;
+    }
+    .item:hover {
+      background: color-mix(in oklab, Canvas 88%, transparent);
+    }
+    .item:focus-within {
+      box-shadow: 0 0 0 3px color-mix(in oklab, CanvasText 20%, transparent);
+      border-color: color-mix(in oklab, CanvasText 35%, transparent);
+    }
+    input[type="checkbox"] {
+      width: 1.05rem;
+      height: 1.05rem;
+      accent-color: color-mix(in oklab, CanvasText 60%, Canvas);
     }
     .text {
       overflow-wrap: anywhere;
@@ -28,6 +46,10 @@ export class TodoItem extends LitElement {
       text-decoration: line-through;
       opacity: 0.7;
     }
+    :host([completed]) .item {
+      background: color-mix(in oklab, Canvas 96%, transparent);
+      border-color: color-mix(in oklab, CanvasText 10%, transparent);
+    }
     button {
       border: 0;
       background: transparent;
@@ -35,9 +57,17 @@ export class TodoItem extends LitElement {
       color: inherit;
       padding: 0.35rem 0.5rem;
       border-radius: 6px;
+      transition: background-color 0.2s ease, color 0.2s ease, transform 0.05s ease-in-out;
     }
     button:hover {
       background: color-mix(in oklab, CanvasText 10%, transparent);
+    }
+    button:focus-visible {
+      outline: 2px solid color-mix(in oklab, CanvasText 35%, transparent);
+      outline-offset: 2px;
+    }
+    button:active {
+      transform: scale(0.98);
     }
   `;
 
