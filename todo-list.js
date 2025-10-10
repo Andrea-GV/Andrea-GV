@@ -1,4 +1,5 @@
 import { LitElement, css, html } from 'https://cdn.jsdelivr.net/npm/lit@3/+esm';
+import { repeat } from 'https://cdn.jsdelivr.net/npm/lit@3/directives/repeat.js/+esm';
 import './todo-item.js';
 
 export class TodoList extends LitElement {
@@ -34,14 +35,26 @@ export class TodoList extends LitElement {
     ];
   }
 
+  #onToggle(event) {
+    const { id, completed } = event.detail ?? {};
+    if (!id) return;
+    this.tasks = this.tasks.map(task => task.id === id ? { ...task, completed } : task);
+  }
+
+  #onDelete(event) {
+    const { id } = event.detail ?? {};
+    if (!id) return;
+    this.tasks = this.tasks.filter(task => task.id !== id);
+  }
+
   render() {
     return html`
       <section class="card">
         <header>
           <h2>Tareas</h2>
         </header>
-        <div class="list">
-          ${this.tasks.map(task => html`
+        <div class="list" @todo-toggle=${this.#onToggle} @todo-delete=${this.#onDelete}>
+          ${repeat(this.tasks, task => task.id, task => html`
             <todo-item
               .text=${task.text}
               .completed=${task.completed}
