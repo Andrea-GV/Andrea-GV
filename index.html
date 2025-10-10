@@ -37,12 +37,12 @@
     </div>
 
     <script type="module">
-      // Cargamos Lit desde un CDN ESM
+      // Cargamos Lit desde un CDN ESM y montamos <todo-list>
       import { html, render } from 'https://cdn.jsdelivr.net/npm/lit@3/+esm';
+      import './todo-list.js';
 
-      // Paso 1: estructura base. Más adelante montaremos <todo-list> aquí.
       const appRoot = document.getElementById('app');
-      render(html`<p>Preparado para montar los componentes.</p>`, appRoot);
+      render(html`<todo-list></todo-list>`, appRoot);
     </script>
   </body>
 </html>
