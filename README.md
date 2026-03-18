@@ -1,18 +1,29 @@
+<img src="https://github.com/Andrea-GV/Andrea-GV/blob/main/Banner%20LinkedIn%20Frontendv2.jpg" style="max-width: 100%">
 <div align="center">
   <h1> Hi there! 👋 I'm Andrea </h1>
   <h3> I'm a renewed chocolate master and becoming a Full Stack Developer 💻 </h3>
-  <h5> Although I find myself more confortable on Frontend 👌</h5>
 </div>
-<img src="https://github.com/Andrea-GV/Andrea-GV/blob/main/Banner%20LinkedIn%20Frontendv2.jpg" style="max-width: 100%">
+
+<div>
+    <h2 align="center"> ⭐️ Who am I? ⭐️</h2>
+  <p>
+    I'm a junior Full Stack Developer focused on Frontend. 
+    After founding and leading a company for 7 years, in 2024 I redirected my career toward web development. 
+  </p>
+  <p> I seek to contribute to challenging projects where I can continue growing technically, learn from experienced teams, and add value from day one.
+  </p>
+</div>
 
 <div >
   <h2 align="center">✨ Quick facts about me✨</h2>
-  <ul>
+  <ul list-style="none">
+    <li> 💻 Currently, I'm doing an internship at <b> Telefónica Innovación Digital</b> as a <b>Frontend Developer</b> at (old) Kernel Proyect, renamed Nexo </li>
+    <li> 👩🏻‍🎓 I am also finishing my Bootcamp studies in Technology and Organizations Applied to the Future, delivered by <b>UNIR </b> </li>
+    <li> 📚 Last year, I completed a training program in <i>Frontend Liferay DXP 7.4</i> delivered by VASS </li>
+    <li> 👩🏻‍💻 That same year, I successfully completed a Full Stack Developer Bootcamp at Upgrade Hub 🚀</li>
+    <li> 🔭 I’m looking for a new opportunity on IT where I can develop and contribute while learning from experienced teams </li>
     <li> 🍫 I've been running my own artisanal chocolate business from 2016 to August 2023 </li>
     <li> 🥇 Meanwhile, I won some international chocolate competitions </li>
-    <li> 📝 Recently, I've successfully completed a <b> Full Stack Developement Bootcamp </b> </li>
-    <li> 🔭 I’m currently looking for a new opportunity on IT </li>
-    <li> 🌱 I've also finished my training about <i> Liferay DXP 7.4 </i> </li>
     <li> 📝 You can find my <a href="https://drive.google.com/file/d/13DbwGqERIO3Sjv6mC0CYEoDdf2i3RqBm/view?usp=drive_link" alt="Resume"> Resume </a> </li>
     <li> 📫 Let's get in touch <a target="_blank" href="https://www.linkedin.com/in/andrea-garcia-valverde/" rel="follow"><img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="width: 10%;"></a> 
       <a target="_blank" href="https://github.com/Andrea-GV" rel="follow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a></li>
