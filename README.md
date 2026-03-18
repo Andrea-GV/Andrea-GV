@@ -24,7 +24,7 @@
     <li> 🔭 I’m looking for a new opportunity on IT where I can develop and contribute while learning from experienced teams </li>
     <li> 🍫 I've been running my own artisanal chocolate business from 2016 to August 2023 </li>
     <li> 🥇 Meanwhile, I won some international chocolate competitions </li>
-    <li> 📝 You can find my <a href="https://drive.google.com/file/d/13DbwGqERIO3Sjv6mC0CYEoDdf2i3RqBm/view?usp=drive_link" alt="Resume"> Resume </a> </li>
+    <li> 📝 You can find my <a href="https://drive.google.com/file/d/1MkJkpZFhXp8qLNwNragCJFvX7Wh4x1a1/view?usp=drive_link" alt="Resume"> Resume </a> </li>
     <li> 📫 Let's get in touch <a target="_blank" href="https://www.linkedin.com/in/andrea-garcia-valverde/" rel="follow"><img     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="width: 10%;"></a> 
       <a target="_blank" href="https://github.com/Andrea-GV" rel="follow"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a></li>
     <li> 💬 Ask me about <i> Leonardo Da Vinci </i>, I'm a totally freak about him! </li>
