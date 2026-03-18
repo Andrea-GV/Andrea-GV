@@ -1,4 +1,4 @@
-<img src="https://github.com/Andrea-GV/Andrea-GV/blob/main/Banner-LinkedIn.jpg" style="max-width: 100%">
+<img src="https://github.com/Andrea-GV/Andrea-GV/blob/main/Banner-Frontend.jpg" style="max-width: 100%">
 <div align="center">
   <h1> Hi there! 👋 I'm Andrea </h1>
   <h3> I'm a renewed chocolate master and becoming a Full Stack Developer 💻 </h3>
