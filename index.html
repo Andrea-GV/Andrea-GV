@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lista de tareas (Lit)</title>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --max-width: 720px;
+        --gap: 12px;
+        --font-stack: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      }
+      body {
+        margin: 0;
+        font-family: var(--font-stack);
+        line-height: 1.4;
+        padding: 24px;
+        display: grid;
+        place-items: start center;
+      }
+      #app {
+        width: 100%;
+        max-width: var(--max-width);
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app" aria-live="polite"></div>
+
+    <!-- En próximos pasos importaremos nuestros componentes -->
+    <script type="module">
+      // Importa Lit desde un CDN como ESM
+      import { html, render } from 'https://esm.sh/lit@3';
+
+      const app = document.getElementById('app');
+      render(html`
+        <main>
+          <h1>Lista de tareas</h1>
+          <p>Lit cargado correctamente. En el siguiente paso montaremos <code>&lt;todo-list&gt;</code>.</p>
+        </main>
+      `, app);
+    </script>
+  </body>
+</html>
